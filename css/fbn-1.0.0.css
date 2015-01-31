@@ -2566,6 +2566,7 @@ header img{display:block;margin:0 auto;max-width:100%}
 #workTimeline{padding-top:30px}
 #bio{background:#F6F6F6;padding-top:90px}
 #bio img{max-width:50%;margin:0 auto}
+.pins .about-item{min-height:280px}
 @media screen and (max-width:640px){.logo{width:100px;height:auto}
 .slick-next{right:0}
 .slick-prev{left:0}
